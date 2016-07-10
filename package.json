@@ -59,7 +59,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -2319,6 +2320,33 @@
               "2",
               "[@remeniuk](https://github.com/remeniuk)/[**remeniuk.github.com**](https://github.com/remeniuk/remeniuk.github.com)",
               "remeniuk.github.com",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@aliaksandrb](https://github.com/aliaksandrb)/[**ubuntu_ruby_dev**](https://github.com/aliaksandrb/ubuntu_ruby_dev)",
+              "Simple bash script for setup Ruby development environment on machine running Ubuntu",
+              ""
+            ],
+            [
+              "2",
+              "[@VitaminPSG](https://github.com/VitaminPSG)/[**OpenStreetMap**](https://github.com/VitaminPSG/OpenStreetMap)",
+              "OpenStreetMap xml -> MySQL",
               ""
             ]
           ]
