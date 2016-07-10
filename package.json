@@ -55,7 +55,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -1133,6 +1134,243 @@
               "2",
               "[@grishkovelli](https://github.com/grishkovelli)/[**Mojolicious-Plugin-A…**](https://github.com/grishkovelli/Mojolicious-Plugin-AdvancedMod)",
               "Additional features",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "827",
+              "[@barbushin](https://github.com/barbushin)/[**php-console**](https://github.com/barbushin/php-console)",
+              "Handle PHP errors, dump variables, execute PHP code remotely in Google Chrome",
+              "[:arrow_upper_right:](https://chrome.google.com/webstore/detail/php-console/nfhmhhlpfleoednkpnnnkolmclajemef)"
+            ],
+            [
+              "476",
+              "[@barbushin](https://github.com/barbushin)/[**php-imap**](https://github.com/barbushin/php-imap)",
+              "PHP class to access mailbox by POP3/IMAP/NNTP using IMAP extension",
+              ""
+            ],
+            [
+              "137",
+              "[@barbushin](https://github.com/barbushin)/[**dater**](https://github.com/barbushin/dater)",
+              "PHP library to work with date and time in different timezones & formats",
+              ""
+            ],
+            [
+              "126",
+              "[@githubjeka](https://github.com/githubjeka)/[**yii2-tutorial**](https://github.com/githubjeka/yii2-tutorial)",
+              "Yii2 учебное руководство, мануал по созданию сайта на русском языке.",
+              ""
+            ],
+            [
+              "92",
+              "[@githubjeka](https://github.com/githubjeka)/[**yii2-rest**](https://github.com/githubjeka/yii2-rest)",
+              "Yii2 REST API template",
+              ""
+            ],
+            [
+              "64",
+              "[@barbushin](https://github.com/barbushin)/[**multirequest**](https://github.com/barbushin/multirequest)",
+              "PHP library for easy and flexible multithread requests handling by CURL",
+              ""
+            ],
+            [
+              "53",
+              "[@githubjeka](https://github.com/githubjeka)/[**gui-rbac-yii2**](https://github.com/githubjeka/gui-rbac-yii2)",
+              "RBAC Auth manager for Yii2 with GUI",
+              "[:arrow_upper_right:](https://basic-rbac-githubjeka.c9.io/basic/web/index.php?r=rbac)"
+            ],
+            [
+              "48",
+              "[@barbushin](https://github.com/barbushin)/[**php-console-laravel**](https://github.com/barbushin/php-console-laravel)",
+              "Laravel 4.* and 5.* service providers to handle PHP errors, dump variables, execute PHP code remotely in Google Chrome",
+              "[:arrow_upper_right:](https://chrome.google.com/webstore/detail/php-console/nfhmhhlpfleoednkpnnnkolmclajemef)"
+            ],
+            [
+              "25",
+              "[@barbushin](https://github.com/barbushin)/[**lagger**](https://github.com/barbushin/lagger)",
+              "Lightweight and flexible errors/exceptions/debugs handler for PHP",
+              ""
+            ],
+            [
+              "16",
+              "[@atukai](https://github.com/atukai)/[**AtCms**](https://github.com/atukai/AtCms)",
+              "AtCms is a Zend Framework 2 module which provides a base CMS functionality. Helps to create html pages and blocks.",
+              ""
+            ],
+            [
+              "10",
+              "[@barbushin](https://github.com/barbushin)/[**primage**](https://github.com/barbushin/primage)",
+              "PHP library that works like a proxy for realtime images resizing and watermarking (+ cache support)",
+              ""
+            ],
+            [
+              "9",
+              "[@barbushin](https://github.com/barbushin)/[**speed-out**](https://github.com/barbushin/speed-out)",
+              "PHP library for realtime JavaScript/CSS files combining & compression",
+              ""
+            ],
+            [
+              "8",
+              "[@barbushin](https://github.com/barbushin)/[**abstract-storage**](https://github.com/barbushin/abstract-storage)",
+              "PHP library for transactional Key-Value, Key-Object, Queue sharded storages on MySQL/Mongo/Redis/Memcached",
+              ""
+            ],
+            [
+              "8",
+              "[@atukai](https://github.com/atukai)/[**AtPhpSettings**](https://github.com/atukai/AtPhpSettings)",
+              "ZF2 module for managing a php settings",
+              ""
+            ],
+            [
+              "7",
+              "[@Gemorroj](https://github.com/Gemorroj)/[**Archive7z**](https://github.com/Gemorroj/Archive7z)",
+              "This library provides handling of 7z files in PHP",
+              ""
+            ],
+            [
+              "6",
+              "[@barbushin](https://github.com/barbushin)/[**php-console-yii**](https://github.com/barbushin/php-console-yii)",
+              "Yii extension to handle errors & debug in Google Chrome using \"PHP Console\"",
+              ""
+            ],
+            [
+              "6",
+              "[@barbushin](https://github.com/barbushin)/[**dbench**](https://github.com/barbushin/dbench)",
+              "PHP library for generating database tables data and testing it perfomance",
+              ""
+            ],
+            [
+              "5",
+              "[@Gemorroj](https://github.com/Gemorroj)/[**MP3_Id3**](https://github.com/Gemorroj/MP3_Id3)",
+              "Read/Write MP3-Tags",
+              ""
+            ],
+            [
+              "5",
+              "[@barbushin](https://github.com/barbushin)/[**dabase**](https://github.com/barbushin/dabase)",
+              "flexible, simple and lightweight pseudo ORM for PHP",
+              ""
+            ],
+            [
+              "5",
+              "[@barbushin](https://github.com/barbushin)/[**php-console-silex**](https://github.com/barbushin/php-console-silex)",
+              "Silex service provider to handle PHP errors, dump variables, execute PHP code remotely in Google Chrome",
+              "[:arrow_upper_right:](https://chrome.google.com/webstore/detail/php-console/nfhmhhlpfleoednkpnnnkolmclajemef)"
+            ],
+            [
+              "5",
+              "[@barbushin](https://github.com/barbushin)/[**scriptalone**](https://github.com/barbushin/scriptalone)",
+              "PHP class for limiting running only one instance of some script",
+              ""
+            ],
+            [
+              "4",
+              "[@Gemorroj](https://github.com/Gemorroj)/[**M3uParser**](https://github.com/Gemorroj/M3uParser)",
+              "Parser for m3u files",
+              ""
+            ],
+            [
+              "4",
+              "[@atukai](https://github.com/atukai)/[**AtAdmin**](https://github.com/atukai/AtAdmin)",
+              "Provides an admin panel and extra functionality",
+              ""
+            ],
+            [
+              "4",
+              "[@atukai](https://github.com/atukai)/[**AtWeather**](https://github.com/atukai/AtWeather)",
+              "AtWeather is a Zend Framework 2 module that helps to get weather forecast from online weather providers.",
+              ""
+            ],
+            [
+              "3",
+              "[@atukai](https://github.com/atukai)/[**AtDataGrid**](https://github.com/atukai/AtDataGrid)",
+              "A data grid component for ZF2",
+              ""
+            ],
+            [
+              "3",
+              "[@githubjeka](https://github.com/githubjeka)/[**skeletonYiiApp**](https://github.com/githubjeka/skeletonYiiApp)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@Gemorroj](https://github.com/Gemorroj)/[**gmanager**](https://github.com/Gemorroj/gmanager)",
+              "Файловый менеджер + Текстовый редактор",
+              ""
+            ],
+            [
+              "2",
+              "[@Ozerich](https://github.com/Ozerich)/[**gounique**](https://github.com/Ozerich/gounique)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@atukai](https://github.com/atukai)/[**AtBlock**](https://github.com/atukai/AtBlock)",
+              "Blocks and widgets module for ZF2",
+              ""
+            ],
+            [
+              "2",
+              "[@Gemorroj](https://github.com/Gemorroj)/[**Syntax**](https://github.com/Gemorroj/Syntax)",
+              "Check php code syntax",
+              ""
+            ],
+            [
+              "2",
+              "[@Gemorroj](https://github.com/Gemorroj)/[**HTMLValidator**](https://github.com/Gemorroj/HTMLValidator)",
+              "port PEAR package Services_W3C_HTMLValidator",
+              ""
+            ],
+            [
+              "2",
+              "[@githubjeka](https://github.com/githubjeka)/[**value-object**](https://github.com/githubjeka/value-object)",
+              "Help to create immutable Value Objects",
+              ""
+            ],
+            [
+              "2",
+              "[@Ozerich](https://github.com/Ozerich)/[**just-find**](https://github.com/Ozerich/just-find)",
+              "just-find.ru for bsuir game",
+              "[:arrow_upper_right:](http://www.just-find.ru)"
+            ],
+            [
+              "2",
+              "[@Gemorroj](https://github.com/Gemorroj)/[**forum**](https://github.com/Gemorroj/forum)",
+              "wapinet forum",
+              ""
+            ],
+            [
+              "2",
+              "[@Ozerich](https://github.com/Ozerich)/[**parsers**](https://github.com/Ozerich/parsers)",
+              "Parsers for various web-sites",
+              "[:arrow_upper_right:](http://www.avito.ru)"
+            ],
+            [
+              "2",
+              "[@barbushin](https://github.com/barbushin)/[**iploc**](https://github.com/barbushin/iploc)",
+              "PHP library to detect location by IP based on GeoLite database",
+              ""
+            ],
+            [
+              "2",
+              "[@Gemorroj](https://github.com/Gemorroj)/[**CSSValidator**](https://github.com/Gemorroj/CSSValidator)",
+              "port PEAR package Services_W3C_CSSValidator",
               ""
             ]
           ]
