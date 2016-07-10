@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -983,6 +984,33 @@
               "2",
               "[@SlavaRa](https://github.com/SlavaRa)/[**blooddy**](https://github.com/SlavaRa/blooddy)",
               "Automatically exported from code.google.com/p/blooddy",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@valichek](https://github.com/valichek)/[**component-compojure**](https://github.com/valichek/component-compojure)",
+              "Use Compojure routes as Stuart Sierra's Component",
+              ""
+            ],
+            [
+              "2",
+              "[@ysmolsky](https://github.com/ysmolsky)/[**clojure-df**](https://github.com/ysmolsky/clojure-df)",
+              "Clone of Dwarf Fortress on Clojure ",
               ""
             ]
           ]
