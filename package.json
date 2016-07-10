@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -903,6 +904,45 @@
               "2",
               "[@vi](https://github.com/vi)/[**syscall_limiter**](https://github.com/vi/syscall_limiter)",
               "Start Linux programs with only selected syscalls enabled (libseccomp-based)",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "50",
+              "[@abudnik](https://github.com/abudnik)/[**tcalc**](https://github.com/abudnik/tcalc)",
+              "C++ compile-time Prolog interpreter",
+              ""
+            ],
+            [
+              "13",
+              "[@yankeppey](https://github.com/yankeppey)/[**PanoramaSample**](https://github.com/yankeppey/PanoramaSample)",
+              "Android panorama photo in one project",
+              ""
+            ],
+            [
+              "7",
+              "[@icekobrin](https://github.com/icekobrin)/[**fourdeltaone**](https://github.com/icekobrin/fourdeltaone)",
+              "Source code client 4d1",
+              ""
+            ],
+            [
+              "4",
+              "[@icekobrin](https://github.com/icekobrin)/[**alterIWnet-client-**](https://github.com/icekobrin/alterIWnet-client-)",
+              "Source code alterIWnet",
               ""
             ]
           ]
