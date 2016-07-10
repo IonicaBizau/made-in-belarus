@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -425,6 +426,225 @@
               "2",
               "[@vvscode](https://github.com/vvscode)/[**js--ember-cli-ajax-l…**](https://github.com/vvscode/js--ember-cli-ajax-logger)",
               "Ember-cli Addon to log ajax requests inside ember application for integration test purposes",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "13385",
+              "[@nostra13](https://github.com/nostra13)/[**Android-Universal-Im…**](https://github.com/nostra13/Android-Universal-Image-Loader)",
+              "Powerful and flexible library for loading, caching and displaying images on Android.",
+              ""
+            ],
+            [
+              "360",
+              "[@indy256](https://github.com/indy256)/[**codelibrary**](https://github.com/indy256/codelibrary)",
+              "Collection of algorithms and data structures",
+              "[:arrow_upper_right:](http://www.codelibrary.ml)"
+            ],
+            [
+              "239",
+              "[@greenfrvr](https://github.com/greenfrvr)/[**hashtag-view**](https://github.com/greenfrvr/hashtag-view)",
+              "Android fully customizable widget for representing data like hashtags collection and similiar.",
+              ""
+            ],
+            [
+              "232",
+              "[@nostra13](https://github.com/nostra13)/[**Android-Simple-Socia…**](https://github.com/nostra13/Android-Simple-Social-Sharing)",
+              "Reusable instrument for simple sharing with popular social networks (Facebook, Twiiter).",
+              ""
+            ],
+            [
+              "225",
+              "[@VEINHORN](https://github.com/VEINHORN)/[**ScrollGalleryView**](https://github.com/VEINHORN/ScrollGalleryView)",
+              ":camera: Awesome image gallery for Android",
+              ""
+            ],
+            [
+              "79",
+              "[@VEINHORN](https://github.com/VEINHORN)/[**android-tagview**](https://github.com/VEINHORN/android-tagview)",
+              ":sparkler: Android library for creating beautiful tags for your content.",
+              ""
+            ],
+            [
+              "64",
+              "[@lassana](https://github.com/lassana)/[**continuous-audioreco…**](https://github.com/lassana/continuous-audiorecorder)",
+              "Implementation of the missing feature in Android SDK: audio recorder with a pause.",
+              ""
+            ],
+            [
+              "34",
+              "[@VEINHORN](https://github.com/VEINHORN)/[**android-search-adapt…**](https://github.com/VEINHORN/android-search-adapter)",
+              ":mag_right: Simple way to filter your ListView or GridView content.",
+              ""
+            ],
+            [
+              "27",
+              "[@aolshevskiy](https://github.com/aolshevskiy)/[**songo**](https://github.com/aolshevskiy/songo)",
+              "VKontakte Desktop Player",
+              ""
+            ],
+            [
+              "21",
+              "[@michail-nikolaev](https://github.com/michail-nikolaev)/[**primefaces-spring-sc…**](https://github.com/michail-nikolaev/primefaces-spring-scopes)",
+              "Test for primefaces together with Spring and View scope (@ViewScoped).",
+              ""
+            ],
+            [
+              "19",
+              "[@VEINHORN](https://github.com/VEINHORN)/[**QuickReaderView**](https://github.com/VEINHORN/QuickReaderView)",
+              ":orange_book: A simple quick reader view for Android.",
+              ""
+            ],
+            [
+              "17",
+              "[@greenfrvr](https://github.com/greenfrvr)/[**anny-prefs**](https://github.com/greenfrvr/anny-prefs)",
+              "Android annotations based SharedPreferences utility. ",
+              ""
+            ],
+            [
+              "10",
+              "[@asaskevich](https://github.com/asaskevich)/[**SmartCursor**](https://github.com/asaskevich/SmartCursor)",
+              "[Java] Useful Minecraft mod with cursor utilities",
+              "[:arrow_upper_right:](https://mods.io/mods/1089-smartcursor)"
+            ],
+            [
+              "6",
+              "[@michail-nikolaev](https://github.com/michail-nikolaev)/[**springsecurity3-acti…**](https://github.com/michail-nikolaev/springsecurity3-activedirectory-ntlm-test)",
+              "Test for usage Spring Security 3 together with Active Directory and NTLM authentification",
+              ""
+            ],
+            [
+              "6",
+              "[@michail-nikolaev](https://github.com/michail-nikolaev)/[**vaadin-querydsl-spri…**](https://github.com/michail-nikolaev/vaadin-querydsl-spring-jpa-gradle-test)",
+              "Test for Vaadin with Querydsl with Spring with Jpa with Gradle",
+              ""
+            ],
+            [
+              "6",
+              "[@VEINHORN](https://github.com/VEINHORN)/[**forismatic-api-java**](https://github.com/VEINHORN/forismatic-api-java)",
+              ":100: Java library for http://forismatic.com API. It's a simple way to get the most inspirational quotes.",
+              "[:arrow_upper_right:](http://www.forismatic.com)"
+            ],
+            [
+              "5",
+              "[@asaskevich](https://github.com/asaskevich)/[**VK-Small-API**](https://github.com/asaskevich/VK-Small-API)",
+              "Small Java API used for work with VK",
+              ""
+            ],
+            [
+              "5",
+              "[@indy256](https://github.com/indy256)/[**problems**](https://github.com/indy256/problems)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@indy256](https://github.com/indy256)/[**codejam-templates**](https://github.com/indy256/codejam-templates)",
+              "Templates for Google Code Jam contest in different programming languages",
+              "[:arrow_upper_right:](https://code.google.com/codejam/)"
+            ],
+            [
+              "5",
+              "[@lassana](https://github.com/lassana)/[**listview-animations**](https://github.com/lassana/listview-animations)",
+              "The little project showing how to implement ListView animations.",
+              ""
+            ],
+            [
+              "4",
+              "[@ibuziuk](https://github.com/ibuziuk)/[**training-courses-man…**](https://github.com/ibuziuk/training-courses-management-system)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@Cvazer](https://github.com/Cvazer)/[**Pong-sample**](https://github.com/Cvazer/Pong-sample)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@aolshevskiy](https://github.com/aolshevskiy)/[**jygments**](https://github.com/aolshevskiy/jygments)",
+              "Java interface to Pygments",
+              "[:arrow_upper_right:](pygments.org)"
+            ],
+            [
+              "3",
+              "[@madhead](https://github.com/madhead)/[**stack-autologin**](https://github.com/madhead/stack-autologin)",
+              "Get your Fanatic badge on StackOverflow with ease!",
+              ""
+            ],
+            [
+              "3",
+              "[@madhead](https://github.com/madhead)/[**eclipse-uuid-generat…**](https://github.com/madhead/eclipse-uuid-generator-plugin)",
+              "Generates UUIDs and pastes them to the editor",
+              "[:arrow_upper_right:](http://madhead.github.io/eclipse-uuid-generator-plugin/)"
+            ],
+            [
+              "3",
+              "[@pavel-drobushevich](https://github.com/pavel-drobushevich)/[**blog-examples**](https://github.com/pavel-drobushevich/blog-examples)",
+              "Different examples for my blog",
+              "[:arrow_upper_right:](http://pdrobushevich.blogspot.com)"
+            ],
+            [
+              "2",
+              "[@aolshevskiy](https://github.com/aolshevskiy)/[**headless-skype**](https://github.com/aolshevskiy/headless-skype)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@aolshevskiy](https://github.com/aolshevskiy)/[**sgit**](https://github.com/aolshevskiy/sgit)",
+              "Simple Git",
+              "[:arrow_upper_right:](http://sgit.demonico.cloudbees.net/)"
+            ],
+            [
+              "2",
+              "[@lassana](https://github.com/lassana)/[**webometrics-parser**](https://github.com/lassana/webometrics-parser)",
+              "The parser of Ranking of Universities.",
+              ""
+            ],
+            [
+              "2",
+              "[@VEINHORN](https://github.com/VEINHORN)/[**GhirinovskiyQuotesAn…**](https://github.com/VEINHORN/GhirinovskiyQuotesAndroid)",
+              "This app is a collection of quotes by Vladimir Ghirinovskiy, the famous Russian politician.",
+              ""
+            ],
+            [
+              "2",
+              "[@Cvazer](https://github.com/Cvazer)/[**Tutorials**](https://github.com/Cvazer/Tutorials)",
+              "Репозиторий с кодом из тутораллов ",
+              ""
+            ],
+            [
+              "2",
+              "[@madhead](https://github.com/madhead)/[**gradle-backup-plugin**](https://github.com/madhead/gradle-backup-plugin)",
+              "Because backups need to be automatic",
+              ""
+            ],
+            [
+              "2",
+              "[@asaskevich](https://github.com/asaskevich)/[**SJcraft**](https://github.com/asaskevich/SJcraft)",
+              "SJcraft - small modification for Minecraft",
+              ""
+            ],
+            [
+              "2",
+              "[@michail-nikolaev](https://github.com/michail-nikolaev)/[**jpa-hibernate-branch…**](https://github.com/michail-nikolaev/jpa-hibernate-branches)",
+              "JPA entities which may be branched to have more than one branch of entity (with childs) at time",
               ""
             ]
           ]
