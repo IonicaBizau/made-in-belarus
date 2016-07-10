@@ -57,7 +57,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -1663,6 +1664,579 @@
               "2",
               "[@alex-oleshkevich](https://github.com/alex-oleshkevich)/[**skeleton-plasmoid**](https://github.com/alex-oleshkevich/skeleton-plasmoid)",
               "The skeleton application for KDE Plasma widget (Popup Applet)",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "786",
+              "[@goshakkk](https://github.com/goshakkk)/[**nsa_panel**](https://github.com/goshakkk/nsa_panel)",
+              "Easily add an NSA backdoor into your Rails app.",
+              ""
+            ],
+            [
+              "204",
+              "[@ka8725](https://github.com/ka8725)/[**migration_data**](https://github.com/ka8725/migration_data)",
+              "The solution to keep your Rails ActiveRecord migrations up to date",
+              "[:arrow_upper_right:](http://railsguides.net/change-data-in-migrations-like-a-boss/)"
+            ],
+            [
+              "183",
+              "[@lest](https://github.com/lest)/[**capistrano-deploy**](https://github.com/lest/capistrano-deploy)",
+              "Capistrano deploy recipes",
+              ""
+            ],
+            [
+              "169",
+              "[@antono](https://github.com/antono)/[**shelr**](https://github.com/antono/shelr)",
+              "Console screencasting tool",
+              "[:arrow_upper_right:](http://shelr.tv)"
+            ],
+            [
+              "164",
+              "[@goshakkk](https://github.com/goshakkk)/[**sleek**](https://github.com/goshakkk/sleek)",
+              "Doing Analytics in Ruby.",
+              ""
+            ],
+            [
+              "110",
+              "[@nashby](https://github.com/nashby)/[**garlicjs-rails**](https://github.com/nashby/garlicjs-rails)",
+              "Garlic.js in love with Rails Asset Pipeline",
+              ""
+            ],
+            [
+              "73",
+              "[@MaximAbramchuck](https://github.com/MaximAbramchuck)/[**ruby-telegram-bot-st…**](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)",
+              ":airplane: Ruby Telegram boilerplate for creating awesome bots",
+              ""
+            ],
+            [
+              "68",
+              "[@nashby](https://github.com/nashby)/[**wtf_lang**](https://github.com/nashby/wtf_lang)",
+              "An awesome language detector",
+              "[:arrow_upper_right:](http://github.com/nashby/wtf_lang)"
+            ],
+            [
+              "53",
+              "[@hron](https://github.com/hron)/[**redmine_subtasks**](https://github.com/hron/redmine_subtasks)",
+              "This is plugin for Redmine for adding subtasks functionality.",
+              ""
+            ],
+            [
+              "35",
+              "[@nashby](https://github.com/nashby)/[**dota**](https://github.com/nashby/dota)",
+              "Ruby wrapper for Dota 2 WebAPI",
+              ""
+            ],
+            [
+              "32",
+              "[@Mik-die](https://github.com/Mik-die)/[**mongoid_globalize**](https://github.com/Mik-die/mongoid_globalize)",
+              "Library for translating Mongoid documents, based on Globalize3 principles",
+              ""
+            ],
+            [
+              "28",
+              "[@oivoodoo](https://github.com/oivoodoo)/[**devise_masquerade**](https://github.com/oivoodoo/devise_masquerade)",
+              "Extension for devise, enable login as functionality. Add link to the masquerade_path(resource) and use it.",
+              ""
+            ],
+            [
+              "26",
+              "[@avsej](https://github.com/avsej)/[**git-kindle**](https://github.com/avsej/git-kindle)",
+              "Render kindle book from git repository",
+              ""
+            ],
+            [
+              "26",
+              "[@alovak](https://github.com/alovak)/[**test_xml**](https://github.com/alovak/test_xml)",
+              "Small library to test your xml with Test::Unit or RSpec",
+              ""
+            ],
+            [
+              "25",
+              "[@avsej](https://github.com/avsej)/[**ruby-couchbase-model**](https://github.com/avsej/ruby-couchbase-model)",
+              "The ORM-like abstraction for couchbase ruby client (Fork for *experiments*. See original repository)",
+              "[:arrow_upper_right:](https://github.com/couchbase/couchbase-ruby-model)"
+            ],
+            [
+              "24",
+              "[@FUT](https://github.com/FUT)/[**iam**](https://github.com/FUT/iam)",
+              "Single click authorization (not for production)",
+              "[:arrow_upper_right:](https://github.com/FUT/iam)"
+            ],
+            [
+              "22",
+              "[@lest](https://github.com/lest)/[**redmine_thumbnails**](https://github.com/lest/redmine_thumbnails)",
+              "Redmine Thumbnails Plugin",
+              ""
+            ],
+            [
+              "19",
+              "[@nashby](https://github.com/nashby)/[**omniauth-stackexchan…**](https://github.com/nashby/omniauth-stackexchange)",
+              "StackExchange OAuth strategy for OmniAuth",
+              ""
+            ],
+            [
+              "19",
+              "[@lest](https://github.com/lest)/[**coderwall-cli**](https://github.com/lest/coderwall-cli)",
+              "Coderwall CLI",
+              ""
+            ],
+            [
+              "19",
+              "[@nashby](https://github.com/nashby)/[**github_cloner**](https://github.com/nashby/github_cloner)",
+              "With github_cloner you have an easy way to clone all your projects from github",
+              "[:arrow_upper_right:](https://github.com/nashby/github_cloner)"
+            ],
+            [
+              "17",
+              "[@goshakkk](https://github.com/goshakkk)/[**ruroku**](https://github.com/goshakkk/ruroku)",
+              "The better Ruby client for Heroku API.",
+              "[:arrow_upper_right:](http://goshakkk.name/ruroku/)"
+            ],
+            [
+              "17",
+              "[@alesguzik](https://github.com/alesguzik)/[**vkpd**](https://github.com/alesguzik/vkpd)",
+              "VKPD searches vk.com for music files and plays them via mpd",
+              ""
+            ],
+            [
+              "16",
+              "[@avsej](https://github.com/avsej)/[**calculus**](https://github.com/avsej/calculus)",
+              "A ruby parser for TeX equations",
+              "[:arrow_upper_right:](http://avsej.net/calculus)"
+            ],
+            [
+              "16",
+              "[@ka8725](https://github.com/ka8725)/[**get_or_build**](https://github.com/ka8725/get_or_build)",
+              "Rails gem for building has_one and belongs_to associations for fields_for",
+              "[:arrow_upper_right:](http://ka8725.github.com/get_or_build)"
+            ],
+            [
+              "14",
+              "[@styx](https://github.com/styx)/[**jquery-ui-rails-cdn**](https://github.com/styx/jquery-ui-rails-cdn)",
+              "Add CDN support to jquery-ui-rails",
+              ""
+            ],
+            [
+              "13",
+              "[@Mik-die](https://github.com/Mik-die)/[**polymorphic_render**](https://github.com/Mik-die/polymorphic_render)",
+              "Extends rails views rendering",
+              ""
+            ],
+            [
+              "12",
+              "[@Mik-die](https://github.com/Mik-die)/[**translation_panel**](https://github.com/Mik-die/translation_panel)",
+              "I18n backend, based on redis, with frontend panel for translations",
+              "[:arrow_upper_right:](https://github.com/Mik-die/translation_panel)"
+            ],
+            [
+              "12",
+              "[@nashby](https://github.com/nashby)/[**ruby_kick_prologs_as…**](https://github.com/nashby/ruby_kick_prologs_ass)",
+              "Ruby solutions of the Ninety-Nine Prolog Problems ",
+              "[:arrow_upper_right:](http://nashby.github.com/ruby_problems/)"
+            ],
+            [
+              "12",
+              "[@styx](https://github.com/styx)/[**compass-foundation**](https://github.com/styx/compass-foundation)",
+              "Foundation plugin for Compass",
+              ""
+            ],
+            [
+              "10",
+              "[@sergey-alekseev](https://github.com/sergey-alekseev)/[**lita-answers**](https://github.com/sergey-alekseev/lita-answers)",
+              "A Lita handler for a question answering (QA) system",
+              ""
+            ],
+            [
+              "10",
+              "[@lest](https://github.com/lest)/[**redmine_wiki_sidebar…**](https://github.com/lest/redmine_wiki_sidebar_toc)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@antono](https://github.com/antono)/[**redcar-pastie**](https://github.com/antono/redcar-pastie)",
+              "Redcar plugin for pastie gist and other pastebins",
+              ""
+            ],
+            [
+              "9",
+              "[@hron](https://github.com/hron)/[**ruby_on_etags**](https://github.com/hron/ruby_on_etags)",
+              "Ruby on ETags is a tool to help a developer keep TAGS file up to date.",
+              ""
+            ],
+            [
+              "8",
+              "[@nashby](https://github.com/nashby)/[**vlcrb**](https://github.com/nashby/vlcrb)",
+              "Ruby wrapper for libVLC ",
+              "[:arrow_upper_right:](http://github.com/nashby/vlcrb)"
+            ],
+            [
+              "7",
+              "[@styx](https://github.com/styx)/[**angularjs-rails-cdn**](https://github.com/styx/angularjs-rails-cdn)",
+              "Adds CDN support to angularjs-rails",
+              ""
+            ],
+            [
+              "7",
+              "[@avsej](https://github.com/avsej)/[**gson.rb**](https://github.com/avsej/gson.rb)",
+              "Ruby wrapper for google-gson library",
+              ""
+            ],
+            [
+              "7",
+              "[@avsej](https://github.com/avsej)/[**couchbase-ruby-clien…**](https://github.com/avsej/couchbase-ruby-client-em)",
+              "An EventMachine-based Couchbase ruby driver",
+              ""
+            ],
+            [
+              "7",
+              "[@nashby](https://github.com/nashby)/[**timezoner**](https://github.com/nashby/timezoner)",
+              "A tiny service for detecting timezones by coordinates so you don't need to be dependent on online ones.",
+              ""
+            ],
+            [
+              "6",
+              "[@alovak](https://github.com/alovak)/[**bank_card**](https://github.com/alovak/bank_card)",
+              "Credit card validations and useful methods",
+              ""
+            ],
+            [
+              "6",
+              "[@MaximAbramchuck](https://github.com/MaximAbramchuck)/[**rails3-csrf-patcher**](https://github.com/MaximAbramchuck/rails3-csrf-patcher)",
+              ":electric_plug: Ruby gem which patches your Rails 3 application to protect it from the CSRF vulnerability.",
+              ""
+            ],
+            [
+              "5",
+              "[@oivoodoo](https://github.com/oivoodoo)/[**mongoid-report**](https://github.com/oivoodoo/mongoid-report)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@shemerey](https://github.com/shemerey)/[**weight**](https://github.com/shemerey/weight)",
+              "Weight value object",
+              ""
+            ],
+            [
+              "5",
+              "[@goshakkk](https://github.com/goshakkk)/[**xtr**](https://github.com/goshakkk/xtr)",
+              "Simple trading engine",
+              ""
+            ],
+            [
+              "5",
+              "[@nashby](https://github.com/nashby)/[**zipf_distribution**](https://github.com/nashby/zipf_distribution)",
+              "Zipf's law in Ruby",
+              ""
+            ],
+            [
+              "5",
+              "[@hron](https://github.com/hron)/[**redmine_encrypted_do…**](https://github.com/hron/redmine_encrypted_document_plugin)",
+              "Redmine plugin for keeping encrypted documents in Redmine (www.redmine.org).",
+              "[:arrow_upper_right:](http://www.redmine.org)"
+            ],
+            [
+              "5",
+              "[@Proghat](https://github.com/Proghat)/[**tau**](https://github.com/Proghat/tau)",
+              "Tool for web designers want to use haml, sass, coffee-script and others.",
+              ""
+            ],
+            [
+              "5",
+              "[@antono](https://github.com/antono)/[**markitup_rails**](https://github.com/antono/markitup_rails)",
+              "Markitup helper for rails",
+              ""
+            ],
+            [
+              "5",
+              "[@nashby](https://github.com/nashby)/[**rabin-karp**](https://github.com/nashby/rabin-karp)",
+              "Rabin-Karp implementation in Ruby",
+              ""
+            ],
+            [
+              "4",
+              "[@nashby](https://github.com/nashby)/[**imstat**](https://github.com/nashby/imstat)",
+              "Check user status in the instant messengers",
+              ""
+            ],
+            [
+              "4",
+              "[@goshakkk](https://github.com/goshakkk)/[**furry**](https://github.com/goshakkk/furry)",
+              "Simplistic web framework",
+              ""
+            ],
+            [
+              "4",
+              "[@goshakkk](https://github.com/goshakkk)/[**Twee**](https://github.com/goshakkk/Twee)",
+              "A simple iOS Twitter client built with RubyMotion",
+              ""
+            ],
+            [
+              "4",
+              "[@avsej](https://github.com/avsej)/[**segfault**](https://github.com/avsej/segfault)",
+              "Helper to abort your ruby script execution",
+              "[:arrow_upper_right:](https://rubygems.org/gems/segfault)"
+            ],
+            [
+              "4",
+              "[@nashby](https://github.com/nashby)/[**whoistoblame**](https://github.com/nashby/whoistoblame)",
+              "Who is to blame?",
+              "[:arrow_upper_right:](http://whoistoblame.heroku.com)"
+            ],
+            [
+              "4",
+              "[@alovak](https://github.com/alovak)/[**network**](https://github.com/alovak/network)",
+              "HTTP/HTTPS communication module based on ruby net/http, net/https modules",
+              ""
+            ],
+            [
+              "4",
+              "[@Mik-die](https://github.com/Mik-die)/[**startags**](https://github.com/Mik-die/startags)",
+              "Tags for your GitHub stars!",
+              "[:arrow_upper_right:](http://startags.me)"
+            ],
+            [
+              "3",
+              "[@avsej](https://github.com/avsej)/[**beer-sample**](https://github.com/avsej/beer-sample)",
+              "Open beer database, ready to use with Couchbase",
+              ""
+            ],
+            [
+              "3",
+              "[@antono](https://github.com/antono)/[**mysql_analyser**](https://github.com/antono/mysql_analyser)",
+              "Simple mysql analysis tool",
+              "[:arrow_upper_right:](http://mysql.antono.info/)"
+            ],
+            [
+              "3",
+              "[@avsej](https://github.com/avsej)/[**em-couchbase-loader**](https://github.com/avsej/em-couchbase-loader)",
+              "Test helper for em-couchbase gem",
+              ""
+            ],
+            [
+              "3",
+              "[@okendoken](https://github.com/okendoken)/[**GreatWork**](https://github.com/okendoken/GreatWork)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@sergey-alekseev](https://github.com/sergey-alekseev)/[**bsu-ssm**](https://github.com/sergey-alekseev/bsu-ssm)",
+              "Simulation and statistical modeling, BSU FAMCS 4th course",
+              ""
+            ],
+            [
+              "3",
+              "[@antono](https://github.com/antono)/[**rake-tm**](https://github.com/antono/rake-tm)",
+              "Simple rake time-management tasks for railway workers",
+              "[:arrow_upper_right:](http://github.com/antono/rake-tm/tree/master)"
+            ],
+            [
+              "3",
+              "[@antono](https://github.com/antono)/[**brute**](https://github.com/antono/brute)",
+              "brute force dictionaries on demand",
+              "[:arrow_upper_right:](http://antono.info/en/170-brute-force-dictionaries-in-ruby)"
+            ],
+            [
+              "3",
+              "[@goshakkk](https://github.com/goshakkk)/[**typed_arguments**](https://github.com/goshakkk/typed_arguments)",
+              "Typed method arguments for Ruby",
+              ""
+            ],
+            [
+              "3",
+              "[@goshakkk](https://github.com/goshakkk)/[**pirrrate**](https://github.com/goshakkk/pirrrate)",
+              "A basic Ruby API client for The Pirate Bay",
+              ""
+            ],
+            [
+              "3",
+              "[@lest](https://github.com/lest)/[**lita-eval**](https://github.com/lest/lita-eval)",
+              "A Lita handler for evaluating ruby code.",
+              ""
+            ],
+            [
+              "3",
+              "[@lest](https://github.com/lest)/[**html2pdf**](https://github.com/lest/html2pdf)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@alovak](https://github.com/alovak)/[**merge_db**](https://github.com/alovak/merge_db)",
+              "Do you need to merge Rails databases?",
+              ""
+            ],
+            [
+              "3",
+              "[@antono](https://github.com/antono)/[**glog**](https://github.com/antono/glog)",
+              "Rack based static blog",
+              ""
+            ],
+            [
+              "2",
+              "[@goshakkk](https://github.com/goshakkk)/[**ampersand_x**](https://github.com/goshakkk/ampersand_x)",
+              "&X brings expressiveness back to Ruby procs",
+              ""
+            ],
+            [
+              "2",
+              "[@alovak](https://github.com/alovak)/[**pragauthor**](https://github.com/alovak/pragauthor)",
+              "Pragmatic Author. Sales reports for Amazon KDP, Barnes&Noble, Smashwords, CreateSpace",
+              ""
+            ],
+            [
+              "2",
+              "[@ka8725](https://github.com/ka8725)/[**range_regexp**](https://github.com/ka8725/range_regexp)",
+              "Convert a Ruby range to a regexp.",
+              ""
+            ],
+            [
+              "2",
+              "[@ka8725](https://github.com/ka8725)/[**gemstats**](https://github.com/ka8725/gemstats)",
+              "Gem statisctics",
+              "[:arrow_upper_right:](http://gem-stats.heroku.com/)"
+            ],
+            [
+              "2",
+              "[@lest](https://github.com/lest)/[**redmine_time_limit**](https://github.com/lest/redmine_time_limit)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ka8725](https://github.com/ka8725)/[**neday**](https://github.com/ka8725/neday)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@hron](https://github.com/hron)/[**keep-in-mind**](https://github.com/hron/keep-in-mind)",
+              "Export Rails annotations to Basecamp todo list",
+              ""
+            ],
+            [
+              "2",
+              "[@hron](https://github.com/hron)/[**active_merchant-cert…**](https://github.com/hron/active_merchant-certo_direct)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@FUT](https://github.com/FUT)/[**pspec**](https://github.com/FUT/pspec)",
+              "Improvement of parallel_spec gem for PostgreSQL database",
+              ""
+            ],
+            [
+              "2",
+              "[@FUT](https://github.com/FUT)/[**rbf_network**](https://github.com/FUT/rbf_network)",
+              "Radial basis function network. Similar to multilayer perceptron but includes RBF cells instead of hidden layer.",
+              ""
+            ],
+            [
+              "2",
+              "[@lest](https://github.com/lest)/[**pattersonify**](https://github.com/lest/pattersonify)",
+              "",
+              "[:arrow_upper_right:](http://pattersonify.me/)"
+            ],
+            [
+              "2",
+              "[@okendoken](https://github.com/okendoken)/[**things_to_be_done**](https://github.com/okendoken/things_to_be_done)",
+              "GW successor",
+              "[:arrow_upper_right:](done.cheerick.ru)"
+            ],
+            [
+              "2",
+              "[@lest](https://github.com/lest)/[**redmine_twinslash**](https://github.com/lest/redmine_twinslash)",
+              "Redmine Twinslash Plugin",
+              ""
+            ],
+            [
+              "2",
+              "[@oivoodoo](https://github.com/oivoodoo)/[**deployments-app**](https://github.com/oivoodoo/deployments-app)",
+              "deployments - app it's a sinatra application, you can run it as standalone app on the heroku or attach to the existing rails application.",
+              "[:arrow_upper_right:](http://deployments-app.herokuapp.com/projects)"
+            ],
+            [
+              "2",
+              "[@lest](https://github.com/lest)/[**redmine_twinslash_su…**](https://github.com/lest/redmine_twinslash_subversion)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@sergeyenin](https://github.com/sergeyenin)/[**cassandra_complex**](https://github.com/sergeyenin/cassandra_complex)",
+              "Basic model - wrapper for CQL(Cassandra Query Language) operations.",
+              "[:arrow_upper_right:](http://rubydoc.info/github/sergeyenin/cassandra_complex)"
+            ],
+            [
+              "2",
+              "[@markevich](https://github.com/markevich)/[**madmimi-rails**](https://github.com/markevich/madmimi-rails)",
+              "ActionMailer delivery method for sending emails via madmimi",
+              ""
+            ],
+            [
+              "2",
+              "[@nashby](https://github.com/nashby)/[**rails_depot**](https://github.com/nashby/rails_depot)",
+              "depot project",
+              ""
+            ],
+            [
+              "2",
+              "[@antono](https://github.com/antono)/[**glog-quickstart**](https://github.com/antono/glog-quickstart)",
+              "Glog example site with documentation",
+              ""
+            ],
+            [
+              "2",
+              "[@nashby](https://github.com/nashby)/[**rubytest**](https://github.com/nashby/rubytest)",
+              "rubytest",
+              ""
+            ],
+            [
+              "2",
+              "[@antono](https://github.com/antono)/[**rails-templates**](https://github.com/antono/rails-templates)",
+              "my rails templates",
+              "[:arrow_upper_right:](nil)"
+            ],
+            [
+              "2",
+              "[@nashby](https://github.com/nashby)/[**validates_presence_o…**](https://github.com/nashby/validates_presence_of_boolean)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@avsej](https://github.com/avsej)/[**yard-xml**](https://github.com/avsej/yard-xml)",
+              "XML plugin for YARD tool",
+              "[:arrow_upper_right:](https://rubygems.org/gems/yard-xml)"
+            ],
+            [
+              "2",
+              "[@nashby](https://github.com/nashby)/[**stackoverflair**](https://github.com/nashby/stackoverflair)",
+              "Put your stackoverflow flair on blog or wherever you want.",
+              "[:arrow_upper_right:](https://github.com/nashby/stackoverflair)"
+            ],
+            [
+              "2",
+              "[@ka8725](https://github.com/ka8725)/[**tutor_crm**](https://github.com/ka8725/tutor_crm)",
+              "",
               ""
             ]
           ]
