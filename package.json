@@ -58,7 +58,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -2237,6 +2238,87 @@
               "2",
               "[@ka8725](https://github.com/ka8725)/[**tutor_crm**](https://github.com/ka8725/tutor_crm)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "38",
+              "[@remeniuk](https://github.com/remeniuk)/[**sbt-netbeans-plugin**](https://github.com/remeniuk/sbt-netbeans-plugin)",
+              "The plugin allows to work with SBT projects in Netbeans",
+              ""
+            ],
+            [
+              "13",
+              "[@remeniuk](https://github.com/remeniuk)/[**rubbercube**](https://github.com/remeniuk/rubbercube)",
+              "Cubes over ElasticSearch. Aggregation library for Business Intelligence",
+              ""
+            ],
+            [
+              "10",
+              "[@remeniuk](https://github.com/remeniuk)/[**hazelcast-scala**](https://github.com/remeniuk/hazelcast-scala)",
+              "Functional wrapper for Hazelcast in Scala",
+              ""
+            ],
+            [
+              "7",
+              "[@whiter4bbit](https://github.com/whiter4bbit)/[**scala_by_example**](https://github.com/whiter4bbit/scala_by_example)",
+              "there are some scala by example exer",
+              ""
+            ],
+            [
+              "7",
+              "[@remeniuk](https://github.com/remeniuk)/[**SBT-Library-Resolver**](https://github.com/remeniuk/SBT-Library-Resolver)",
+              "Plugin that uses jarvana.com for finding artifacts in central repository",
+              "[:arrow_upper_right:](vasilrem.com)"
+            ],
+            [
+              "6",
+              "[@kazachonak](https://github.com/kazachonak)/[**contour**](https://github.com/kazachonak/contour)",
+              "Client+Server web-framework in Scala+GWT",
+              ""
+            ],
+            [
+              "5",
+              "[@whiter4bbit](https://github.com/whiter4bbit)/[**oauth**](https://github.com/whiter4bbit/oauth)",
+              "scala oauth provider library",
+              ""
+            ],
+            [
+              "5",
+              "[@scalaby](https://github.com/scalaby)/[**patterns-presentatio…**](https://github.com/scalaby/patterns-presentation)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@whiter4bbit](https://github.com/whiter4bbit)/[**kiwi**](https://github.com/whiter4bbit/kiwi)",
+              "Simple message queue inspired by kafka",
+              ""
+            ],
+            [
+              "2",
+              "[@remeniuk](https://github.com/remeniuk)/[**typesafe-poker**](https://github.com/remeniuk/typesafe-poker)",
+              "Source code for the presentation made at Software Craftsmanship BY meetup",
+              ""
+            ],
+            [
+              "2",
+              "[@remeniuk](https://github.com/remeniuk)/[**remeniuk.github.com**](https://github.com/remeniuk/remeniuk.github.com)",
+              "remeniuk.github.com",
               ""
             ]
           ]
