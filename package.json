@@ -53,7 +53,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -1011,6 +1012,93 @@
               "2",
               "[@ysmolsky](https://github.com/ysmolsky)/[**clojure-df**](https://github.com/ysmolsky/clojure-df)",
               "Clone of Dwarf Fortress on Clojure ",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "427",
+              "[@limejelly](https://github.com/limejelly)/[**Backlight-for-XCode**](https://github.com/limejelly/Backlight-for-XCode)",
+              "Highlights the current editing line in Xcode",
+              ""
+            ],
+            [
+              "164",
+              "[@limejelly](https://github.com/limejelly)/[**Emoji**](https://github.com/limejelly/Emoji)",
+              "Simple access to Emoji",
+              "[:arrow_upper_right:](http://idev.by/)"
+            ],
+            [
+              "58",
+              "[@mrdepth](https://github.com/mrdepth)/[**Neocom**](https://github.com/mrdepth/Neocom)",
+              "Neocom iOS Application",
+              "[:arrow_upper_right:](http://eveuniverseiphone.com)"
+            ],
+            [
+              "41",
+              "[@mrdepth](https://github.com/mrdepth)/[**tools**](https://github.com/mrdepth/tools)",
+              "iOS tools",
+              ""
+            ],
+            [
+              "21",
+              "[@nikolaeu](https://github.com/nikolaeu)/[**MenuBarController**](https://github.com/nikolaeu/MenuBarController)",
+              "OS X menu bar controller with main action and context menu",
+              ""
+            ],
+            [
+              "13",
+              "[@mrdepth](https://github.com/mrdepth)/[**EVEOnlineAPI**](https://github.com/mrdepth/EVEOnlineAPI)",
+              "EVEOnlineAPI",
+              "[:arrow_upper_right:](eveonlineapi)"
+            ],
+            [
+              "7",
+              "[@kvint](https://github.com/kvint)/[**ios-encryption**](https://github.com/kvint/ios-encryption)",
+              "Basic iOS asymmetrical encryption and decryption methods.",
+              ""
+            ],
+            [
+              "7",
+              "[@mrdepth](https://github.com/mrdepth)/[**OSXNeocom**](https://github.com/mrdepth/OSXNeocom)",
+              "Neocom for OS X",
+              ""
+            ],
+            [
+              "4",
+              "[@mrdepth](https://github.com/mrdepth)/[**D3Assistant**](https://github.com/mrdepth/D3Assistant)",
+              "Mobile assistant for Diablo 3",
+              ""
+            ],
+            [
+              "3",
+              "[@limejelly](https://github.com/limejelly)/[**Screentool**](https://github.com/limejelly/Screentool)",
+              "Tool for capturing screenshots in OS X",
+              ""
+            ],
+            [
+              "3",
+              "[@eXiga](https://github.com/eXiga)/[**ConfreaksMTV**](https://github.com/eXiga/ConfreaksMTV)",
+              "iOS client-application for awesome ConfreaksTV web-site",
+              ""
+            ],
+            [
+              "3",
+              "[@nikolaeu](https://github.com/nikolaeu)/[**SRNotification**](https://github.com/nikolaeu/SRNotification)",
+              "Simple remote notification for AppKit",
               ""
             ]
           ]
