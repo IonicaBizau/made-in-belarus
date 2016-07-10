@@ -56,7 +56,8 @@
           "[Clojure](#clojure)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -1371,6 +1372,297 @@
               "2",
               "[@Gemorroj](https://github.com/Gemorroj)/[**CSSValidator**](https://github.com/Gemorroj/CSSValidator)",
               "port PEAR package Services_W3C_CSSValidator",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "190",
+              "[@Tiendil](https://github.com/Tiendil)/[**the-tale**](https://github.com/Tiendil/the-tale)",
+              "Сказка - Zero Player Game и песочница",
+              "[:arrow_upper_right:](http://the-tale.org)"
+            ],
+            [
+              "101",
+              "[@hlamer](https://github.com/hlamer)/[**enki**](https://github.com/hlamer/enki)",
+              "A text editor for programmers",
+              "[:arrow_upper_right:](http://enki-editor.org)"
+            ],
+            [
+              "52",
+              "[@Friz-zy](https://github.com/Friz-zy)/[**pyspaces**](https://github.com/Friz-zy/pyspaces)",
+              "Works with Linux namespaces througth glibc with pure python",
+              ""
+            ],
+            [
+              "42",
+              "[@hlamer](https://github.com/hlamer)/[**qutepart**](https://github.com/hlamer/qutepart)",
+              "Code editor component for PyQt5",
+              "[:arrow_upper_right:](http://enki-editor.org)"
+            ],
+            [
+              "33",
+              "[@Tiendil](https://github.com/Tiendil)/[**utg**](https://github.com/Tiendil/utg)",
+              "universal text generation library",
+              ""
+            ],
+            [
+              "26",
+              "[@Tiendil](https://github.com/Tiendil)/[**pynames**](https://github.com/Tiendil/pynames)",
+              "characters' name generation library",
+              ""
+            ],
+            [
+              "23",
+              "[@hlamer](https://github.com/hlamer)/[**cpp2python**](https://github.com/hlamer/cpp2python)",
+              "C++ to Python converter",
+              ""
+            ],
+            [
+              "18",
+              "[@svartalf](https://github.com/svartalf)/[**python-2gis**](https://github.com/svartalf/python-2gis)",
+              "A Python library for accessing the 2gis API",
+              "[:arrow_upper_right:](http://api.2gis.ru/)"
+            ],
+            [
+              "18",
+              "[@Tiendil](https://github.com/Tiendil)/[**questgen**](https://github.com/Tiendil/questgen)",
+              "quests generation library for the-tale.org",
+              ""
+            ],
+            [
+              "17",
+              "[@Relrin](https://github.com/Relrin)/[**aiorest-ws**](https://github.com/Relrin/aiorest-ws)",
+              "REST framework with WebSockets support",
+              ""
+            ],
+            [
+              "17",
+              "[@svartalf](https://github.com/svartalf)/[**python-opus**](https://github.com/svartalf/python-opus)",
+              "",
+              ""
+            ],
+            [
+              "16",
+              "[@svartalf](https://github.com/svartalf)/[**tornado-zmq-sockjs-e…**](https://github.com/svartalf/tornado-zmq-sockjs-example)",
+              "Example of a application, which uses Tornado web-server for backend side, SockJS for client communications and ØMQ for inner communications.",
+              ""
+            ],
+            [
+              "13",
+              "[@denis-ryzhkov](https://github.com/denis-ryzhkov)/[**mem_top**](https://github.com/denis-ryzhkov/mem_top)",
+              "Shows top suspects for memory leaks in your Python program.",
+              ""
+            ],
+            [
+              "13",
+              "[@denis-ryzhkov](https://github.com/denis-ryzhkov)/[**method_decorator**](https://github.com/denis-ryzhkov/method_decorator)",
+              "Python decorator that knows the class the decorated method is bound to.",
+              ""
+            ],
+            [
+              "11",
+              "[@alex-oleshkevich](https://github.com/alex-oleshkevich)/[**vhost**](https://github.com/alex-oleshkevich/vhost)",
+              "Tool for management of apache's virtual hosts",
+              ""
+            ],
+            [
+              "11",
+              "[@Tiendil](https://github.com/Tiendil)/[**rels**](https://github.com/Tiendil/rels)",
+              "library for describing data relations in python (Enums, \"relational\" tables)",
+              ""
+            ],
+            [
+              "11",
+              "[@kondratovich](https://github.com/kondratovich)/[**aztec**](https://github.com/kondratovich/aztec)",
+              "Command-line build tool for Kotlin",
+              ""
+            ],
+            [
+              "9",
+              "[@Gr1N](https://github.com/Gr1N)/[**rainbowrunners**](https://github.com/Gr1N/rainbowrunners)",
+              "Awesome rainbow test runners!!1",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/rainbowrunners)"
+            ],
+            [
+              "8",
+              "[@hlamer](https://github.com/hlamer)/[**python-ws-discovery**](https://github.com/hlamer/python-ws-discovery)",
+              "WS-Discovery implementation in Python",
+              ""
+            ],
+            [
+              "7",
+              "[@svartalf](https://github.com/svartalf)/[**python-wargaming**](https://github.com/svartalf/python-wargaming)",
+              "Pure-pythonic client library for Wargaming API",
+              "[:arrow_upper_right:](https://wargaming.net/developers/)"
+            ],
+            [
+              "7",
+              "[@ichernetsky](https://github.com/ichernetsky)/[**informatics-rescue-n…**](https://github.com/ichernetsky/informatics-rescue-notes)",
+              "Notes for studies",
+              ""
+            ],
+            [
+              "6",
+              "[@Tiendil](https://github.com/Tiendil)/[**deworld**](https://github.com/Tiendil/deworld)",
+              "DEveloping WORLD - python world generator ",
+              ""
+            ],
+            [
+              "5",
+              "[@Gr1N](https://github.com/Gr1N)/[**1pwd**](https://github.com/Gr1N/1pwd)",
+              "A command line interface for 1Password",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/onepyssword)"
+            ],
+            [
+              "5",
+              "[@ip0000h](https://github.com/ip0000h)/[**flask-docker-compose**](https://github.com/ip0000h/flask-docker-compose)",
+              "Flask application development skeleton with docker-compose",
+              ""
+            ],
+            [
+              "4",
+              "[@cybergrind](https://github.com/cybergrind)/[**django-performance**](https://github.com/cybergrind/django-performance)",
+              "middlewares for profiling django applications",
+              ""
+            ],
+            [
+              "4",
+              "[@Gr1N](https://github.com/Gr1N)/[**poffw**](https://github.com/Gr1N/poffw)",
+              "Proof-of-work prototype (very simple and very stupid)",
+              ""
+            ],
+            [
+              "3",
+              "[@Gr1N](https://github.com/Gr1N)/[**pypispy**](https://github.com/Gr1N/pypispy)",
+              "\"Big Brother\" is watching your packages!",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/pypispy)"
+            ],
+            [
+              "3",
+              "[@yltsrc](https://github.com/yltsrc)/[**gedit-gpicker**](https://github.com/yltsrc/gedit-gpicker)",
+              "gpicker plugin for gEdit",
+              ""
+            ],
+            [
+              "3",
+              "[@svartalf](https://github.com/svartalf)/[**abakron**](https://github.com/svartalf/abakron)",
+              "",
+              "[:arrow_upper_right:](http://abakron.ru)"
+            ],
+            [
+              "3",
+              "[@Friz-zy](https://github.com/Friz-zy)/[**factory**](https://github.com/Friz-zy/factory)",
+              "Automate your own tasks on pure python and execute it on remote or local hosts. Create The Magic",
+              ""
+            ],
+            [
+              "3",
+              "[@svartalf](https://github.com/svartalf)/[**python-quirc**](https://github.com/svartalf/python-quirc)",
+              "Python ctypes interface for QR code decoding library `libquirc`",
+              ""
+            ],
+            [
+              "3",
+              "[@Tiendil](https://github.com/Tiendil)/[**dext**](https://github.com/Tiendil/dext)",
+              "some useful libs for django",
+              ""
+            ],
+            [
+              "3",
+              "[@hlamer](https://github.com/hlamer)/[**pyqt-memory-mgmt**](https://github.com/hlamer/pyqt-memory-mgmt)",
+              "Examples for PyQt memory management article",
+              ""
+            ],
+            [
+              "2",
+              "[@hlamer](https://github.com/hlamer)/[**mit-scheme-gui**](https://github.com/hlamer/mit-scheme-gui)",
+              "MIT Scheme GUI. Prototype for mksv3",
+              ""
+            ],
+            [
+              "2",
+              "[@svartalf](https://github.com/svartalf)/[**random-imgur**](https://github.com/svartalf/random-imgur)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@svartalf](https://github.com/svartalf)/[**xmpp-log**](https://github.com/svartalf/xmpp-log)",
+              "Simple XMPP MUC logger",
+              ""
+            ],
+            [
+              "2",
+              "[@svartalf](https://github.com/svartalf)/[**mhundwa**](https://github.com/svartalf/mhundwa)",
+              "Бот-архивариус для авто-подлепры",
+              ""
+            ],
+            [
+              "2",
+              "[@denis-ryzhkov](https://github.com/denis-ryzhkov)/[**uniqtoken**](https://github.com/denis-ryzhkov/uniqtoken)",
+              "Simple generator of unique tokens.",
+              ""
+            ],
+            [
+              "2",
+              "[@Gr1N](https://github.com/Gr1N)/[**SublimeFixMacEnv**](https://github.com/Gr1N/SublimeFixMacEnv)",
+              "A Sublime Text 3 plugin to set the any env variable correctly on OS X",
+              ""
+            ],
+            [
+              "2",
+              "[@cybergrind](https://github.com/cybergrind)/[**safe_logger**](https://github.com/cybergrind/safe_logger)",
+              "Safe TimedRotatingFileHandler for concurrent writing processes",
+              ""
+            ],
+            [
+              "2",
+              "[@cybergrind](https://github.com/cybergrind)/[**txamqp_ext**](https://github.com/cybergrind/txamqp_ext)",
+              "Extend txamqp library",
+              ""
+            ],
+            [
+              "2",
+              "[@kondratovich](https://github.com/kondratovich)/[**elephant_trader**](https://github.com/kondratovich/elephant_trader)",
+              "twitter bot just for fun",
+              ""
+            ],
+            [
+              "2",
+              "[@myaskevich](https://github.com/myaskevich)/[**python-bype**](https://github.com/myaskevich/python-bype)",
+              "bype - Python Fluent DSL",
+              ""
+            ],
+            [
+              "2",
+              "[@denis-ryzhkov](https://github.com/denis-ryzhkov)/[**adict**](https://github.com/denis-ryzhkov/adict)",
+              "Dict with attr access to keys.",
+              ""
+            ],
+            [
+              "2",
+              "[@denis-ryzhkov](https://github.com/denis-ryzhkov)/[**apiphant**](https://github.com/denis-ryzhkov/apiphant)",
+              "Simple Python Web API framework, based on Gevent, JSON, CRUD.",
+              ""
+            ],
+            [
+              "2",
+              "[@alex-oleshkevich](https://github.com/alex-oleshkevich)/[**skeleton-plasmoid**](https://github.com/alex-oleshkevich/skeleton-plasmoid)",
+              "The skeleton application for KDE Plasma widget (Popup Applet)",
               ""
             ]
           ]
