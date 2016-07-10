@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[C](undefined)"
         ]
       },
       {
@@ -713,6 +714,195 @@
               "7",
               "[@alexedev](https://github.com/alexedev)/[**meteor-admin**](https://github.com/alexedev/meteor-admin)",
               "Admin panel for meteor based on yogiben:admin",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "59",
+              "[@yakushstanislav](https://github.com/yakushstanislav)/[**EagleMQ**](https://github.com/yakushstanislav/EagleMQ)",
+              "EagleMQ is an open source, high-performance and lightweight queue manager",
+              "[:arrow_upper_right:](http://www.eaglemq.com)"
+            ],
+            [
+              "28",
+              "[@vi](https://github.com/vi)/[**dive**](https://github.com/vi/dive)",
+              "Start programs inside unshare/lxc namespaces easily using UNIX sockets + easy access to capabilities, namespaces, chroot and others.",
+              ""
+            ],
+            [
+              "28",
+              "[@vi](https://github.com/vi)/[**tcpsocks**](https://github.com/vi/tcpsocks)",
+              "Redirect traffic to SOCKS5 server with iptables, epoll based, single threaded.",
+              ""
+            ],
+            [
+              "17",
+              "[@anarsoul](https://github.com/anarsoul)/[**libfprint**](https://github.com/anarsoul/libfprint)",
+              "libfprint with my WiP drivers",
+              ""
+            ],
+            [
+              "14",
+              "[@vi](https://github.com/vi)/[**virtual_touchscreen**](https://github.com/vi/virtual_touchscreen)",
+              "Simple evdev linux device driver and GUI program to simulate multitouch touchscreen",
+              ""
+            ],
+            [
+              "12",
+              "[@vi](https://github.com/vi)/[**fdlinecombine**](https://github.com/vi/fdlinecombine)",
+              "Read multiple fds and print data to stdout linewise.",
+              ""
+            ],
+            [
+              "8",
+              "[@vi](https://github.com/vi)/[**fusecow**](https://github.com/vi/fusecow)",
+              "Simple single-file FUSE implementation of copy-on-write",
+              ""
+            ],
+            [
+              "7",
+              "[@vi](https://github.com/vi)/[**execfuse**](https://github.com/vi/execfuse)",
+              "Turn a bunch of scripts into FUSE filesystem",
+              ""
+            ],
+            [
+              "6",
+              "[@vi](https://github.com/vi)/[**tcplim**](https://github.com/vi/tcplim)",
+              "User-space TCP bandwidth limiter (based on tcprelay)",
+              "[:arrow_upper_right:](http://github.com/vi/tcplim/wiki)"
+            ],
+            [
+              "5",
+              "[@anarsoul](https://github.com/anarsoul)/[**qemu-z2**](https://github.com/anarsoul/qemu-z2)",
+              "qemu with Zipit Z2 support",
+              ""
+            ],
+            [
+              "5",
+              "[@vi](https://github.com/vi)/[**timeskew**](https://github.com/vi/timeskew)",
+              "Override time reporting in Linux processes (accelerate/slowdown games)",
+              ""
+            ],
+            [
+              "4",
+              "[@anarsoul](https://github.com/anarsoul)/[**libffplay**](https://github.com/anarsoul/libffplay)",
+              "Small and simple library for creating audio/video players",
+              ""
+            ],
+            [
+              "4",
+              "[@vi](https://github.com/vi)/[**udptap_tunnel**](https://github.com/vi/udptap_tunnel)",
+              "Simple UDP tun/tap-based tunnel with mcrypt encryption. Also some more AF_PACKET and tun/tap related tools.",
+              ""
+            ],
+            [
+              "3",
+              "[@vi](https://github.com/vi)/[**fopen_override**](https://github.com/vi/fopen_override)",
+              "LD_PRELOAD-based fopen/open filename overrider",
+              ""
+            ],
+            [
+              "3",
+              "[@begemotv2718](https://github.com/begemotv2718)/[**cuneiform-by**](https://github.com/begemotv2718/cuneiform-by)",
+              "Belarusian language support for cuneiform OCR",
+              ""
+            ],
+            [
+              "3",
+              "[@vi](https://github.com/vi)/[**chaoticfs**](https://github.com/vi/chaoticfs)",
+              "Encrypting FUSE filesystem with \"false bottom\" allowing exposing the data only partially",
+              ""
+            ],
+            [
+              "3",
+              "[@vi](https://github.com/vi)/[**fusefile**](https://github.com/vi/fusefile)",
+              "Mount one file to another (with offset and append_only support) ",
+              ""
+            ],
+            [
+              "3",
+              "[@anarsoul](https://github.com/anarsoul)/[**qi-openwrt-packages**](https://github.com/anarsoul/qi-openwrt-packages)",
+              "Fork of Qi Hardware's OpenWRT packages repo (originally for Ben Nanonote OpenWRT packages not yet ready for upstream)",
+              "[:arrow_upper_right:](http://projects.qi-hardware.com/index.php/p/openwrt-packages/)"
+            ],
+            [
+              "3",
+              "[@vi](https://github.com/vi)/[**tcprelay**](https://github.com/vi/tcprelay)",
+              "Simple Linux epoll-based single thread TCP relay.",
+              ""
+            ],
+            [
+              "3",
+              "[@vi](https://github.com/vi)/[**udpenc**](https://github.com/vi/udpenc)",
+              "UDP relay with blowfish encryption",
+              "[:arrow_upper_right:](http://code.google.com/p/udpenc/)"
+            ],
+            [
+              "3",
+              "[@anarsoul](https://github.com/anarsoul)/[**ipaq-s3c24xx-u-boot**](https://github.com/anarsoul/ipaq-s3c24xx-u-boot)",
+              "openmoko u-boot fork with support for iPAQ h1940 and rx1950",
+              ""
+            ],
+            [
+              "3",
+              "[@vi](https://github.com/vi)/[**tarpipefs**](https://github.com/vi/tarpipefs)",
+              "Virtual write-only FUSE filesystem to create tar archives [early and hacky]",
+              ""
+            ],
+            [
+              "3",
+              "[@buffovich](https://github.com/buffovich)/[**libmempool**](https://github.com/buffovich/libmempool)",
+              "SLAB-like allocator in user-space. Thread-safety and exchangeable back-ends included.",
+              ""
+            ],
+            [
+              "2",
+              "[@anarsoul](https://github.com/anarsoul)/[**openwrt-packages**](https://github.com/anarsoul/openwrt-packages)",
+              "openwrt-packages",
+              ""
+            ],
+            [
+              "2",
+              "[@yakushstanislav](https://github.com/yakushstanislav)/[**libemq**](https://github.com/yakushstanislav/libemq)",
+              "Client library for the EagleMQ",
+              ""
+            ],
+            [
+              "2",
+              "[@vi](https://github.com/vi)/[**libmlockall**](https://github.com/vi/libmlockall)",
+              "Lock all pages in memory for a process tree",
+              ""
+            ],
+            [
+              "2",
+              "[@vi](https://github.com/vi)/[**socksredirect**](https://github.com/vi/socksredirect)",
+              "\"iptables ... -p tcp -j REDIRECT\" to this program and it will connect to SOCKS5 server",
+              ""
+            ],
+            [
+              "2",
+              "[@vi](https://github.com/vi)/[**imlib2-bpg**](https://github.com/vi/imlib2-bpg)",
+              "imlib2 plugin for loading BPG images",
+              ""
+            ],
+            [
+              "2",
+              "[@vi](https://github.com/vi)/[**syscall_limiter**](https://github.com/vi/syscall_limiter)",
+              "Start Linux programs with only selected syscalls enabled (libseccomp-based)",
               ""
             ]
           ]
