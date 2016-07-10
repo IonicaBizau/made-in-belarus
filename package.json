@@ -54,7 +54,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -1099,6 +1100,39 @@
               "3",
               "[@nikolaeu](https://github.com/nikolaeu)/[**SRNotification**](https://github.com/nikolaeu/SRNotification)",
               "Simple remote notification for AppKit",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "26",
+              "[@worldmind](https://github.com/worldmind)/[**perlqual**](https://github.com/worldmind/perlqual)",
+              "Wrapper for some tests for Perl  code quality",
+              ""
+            ],
+            [
+              "3",
+              "[@basiliscos](https://github.com/basiliscos)/[**perl-watcher**](https://github.com/basiliscos/perl-watcher)",
+              "Nagios-inspired system tray events desktop watcher / notifier",
+              ""
+            ],
+            [
+              "2",
+              "[@grishkovelli](https://github.com/grishkovelli)/[**Mojolicious-Plugin-A…**](https://github.com/grishkovelli/Mojolicious-Plugin-AdvancedMod)",
+              "Additional features",
               ""
             ]
           ]
