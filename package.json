@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -673,6 +674,45 @@
               "3",
               "[@vitalishcharbin](https://github.com/vitalishcharbin)/[**Orms.Example**](https://github.com/vitalishcharbin/Orms.Example)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "138",
+              "[@elmahdim](https://github.com/elmahdim)/[**checkbo**](https://github.com/elmahdim/checkbo)",
+              "Custom Checkbox and Radio, lightweight jQuery Plugin",
+              ""
+            ],
+            [
+              "38",
+              "[@elmahdim](https://github.com/elmahdim)/[**bootstrap-wishlist**](https://github.com/elmahdim/bootstrap-wishlist)",
+              "Bootstrap Wishlist",
+              ""
+            ],
+            [
+              "22",
+              "[@elmahdim](https://github.com/elmahdim)/[**selectem**](https://github.com/elmahdim/selectem)",
+              "Custom select items dropdown",
+              ""
+            ],
+            [
+              "7",
+              "[@alexedev](https://github.com/alexedev)/[**meteor-admin**](https://github.com/alexedev/meteor-admin)",
+              "Admin panel for meteor based on yogiben:admin",
               ""
             ]
           ]
