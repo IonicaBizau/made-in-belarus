@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -645,6 +646,33 @@
               "2",
               "[@michail-nikolaev](https://github.com/michail-nikolaev)/[**jpa-hibernate-branch…**](https://github.com/michail-nikolaev/jpa-hibernate-branches)",
               "JPA entities which may be branched to have more than one branch of entity (with childs) at time",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@vitalishcharbin](https://github.com/vitalishcharbin)/[**Selenium.Automation.…**](https://github.com/vitalishcharbin/Selenium.Automation.Framework)",
+              "The frameworks provides clear conventions and separation of concerns along with selenium web driver extensions. The main goal is to build stable and easy to use framework.",
+              ""
+            ],
+            [
+              "3",
+              "[@vitalishcharbin](https://github.com/vitalishcharbin)/[**Orms.Example**](https://github.com/vitalishcharbin/Orms.Example)",
+              "",
               ""
             ]
           ]
