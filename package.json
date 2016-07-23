@@ -40,6 +40,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/made-in-belarus#readme",
   "blah": {
+    "title": "Made in Belarus",
     "installation": [
       {
         "h2": "Contents"
