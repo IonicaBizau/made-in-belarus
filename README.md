@@ -1,16 +1,9 @@
 
-# made-in-belarus
+# Made in Belarus
 
  [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-belarus.svg)](https://www.npmjs.com/package/made-in-belarus) [![Downloads](https://img.shields.io/npm/dt/made-in-belarus.svg)](https://www.npmjs.com/package/made-in-belarus) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A list of neat projects made in Belarus
-
-## :cloud: Installation
-
-```sh
-$ npm i --save made-in-belarus
-```
-
 
 ## Contents
 
@@ -419,31 +412,6 @@ $ npm i --save made-in-belarus
 --- | --- | --- | ---
 2 | [@aliaksandrb](https://github.com/aliaksandrb)/[**ubuntu_ruby_dev**](https://github.com/aliaksandrb/ubuntu_ruby_dev) | Simple bash script for setup Ruby development environment on machine running Ubuntu |
 2 | [@VitaminPSG](https://github.com/VitaminPSG)/[**OpenStreetMap**](https://github.com/VitaminPSG/OpenStreetMap) | OpenStreetMap xml -> MySQL |
-
-## :clipboard: Example
-
-
-
-```js
-const madeInBelarus = require("made-in-belarus");
-
-console.log(madeInBelarus());
-```
-
-## :memo: Documentation
-
-
-### `madeInBelarus(a, b)`
-A list of neat projects made in Belarus
-
-#### Params
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
-
-
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
