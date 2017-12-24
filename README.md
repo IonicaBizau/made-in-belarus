@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -26,6 +27,7 @@
  - [Shell](#shell)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 529 | [@chemerisuk](https://github.com/chemerisuk)/[**better-dom**](https://github.com/chemerisuk/better-dom) | Live extension playground | [:arrow_upper_right:](http://chemerisuk.github.io/better-dom/)
@@ -89,7 +91,9 @@
 2 | [@mdreizin](https://github.com/mdreizin)/[**angular-ui-router-in…**](https://github.com/mdreizin/angular-ui-router-interceptor) | Angular UI Router Interceptor |
 2 | [@deepsweet](https://github.com/deepsweet)/[**lessbuildify**](https://github.com/deepsweet/lessbuildify) | Browserify plugin for compiling Less to the external file |
 2 | [@vvscode](https://github.com/vvscode)/[**js--ember-cli-ajax-l…**](https://github.com/vvscode/js--ember-cli-ajax-logger) | Ember-cli Addon to log ajax requests inside ember application for integration test purposes |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 13385 | [@nostra13](https://github.com/nostra13)/[**Android-Universal-Im…**](https://github.com/nostra13/Android-Universal-Image-Loader) | Powerful and flexible library for loading, caching and displaying images on Android. |
@@ -126,19 +130,25 @@
 2 | [@madhead](https://github.com/madhead)/[**gradle-backup-plugin**](https://github.com/madhead/gradle-backup-plugin) | Because backups need to be automatic |
 2 | [@asaskevich](https://github.com/asaskevich)/[**SJcraft**](https://github.com/asaskevich/SJcraft) | SJcraft - small modification for Minecraft |
 2 | [@michail-nikolaev](https://github.com/michail-nikolaev)/[**jpa-hibernate-branch…**](https://github.com/michail-nikolaev/jpa-hibernate-branches) | JPA entities which may be branched to have more than one branch of entity (with childs) at time |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 7 | [@vitalishcharbin](https://github.com/vitalishcharbin)/[**Selenium.Automation.…**](https://github.com/vitalishcharbin/Selenium.Automation.Framework) | The frameworks provides clear conventions and separation of concerns along with selenium web driver extensions. The main goal is to build stable and easy to use framework. |
 3 | [@vitalishcharbin](https://github.com/vitalishcharbin)/[**Orms.Example**](https://github.com/vitalishcharbin/Orms.Example) |  |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 138 | [@elmahdim](https://github.com/elmahdim)/[**checkbo**](https://github.com/elmahdim/checkbo) | Custom Checkbox and Radio, lightweight jQuery Plugin |
 38 | [@elmahdim](https://github.com/elmahdim)/[**bootstrap-wishlist**](https://github.com/elmahdim/bootstrap-wishlist) | Bootstrap Wishlist |
 22 | [@elmahdim](https://github.com/elmahdim)/[**selectem**](https://github.com/elmahdim/selectem) | Custom select items dropdown |
 7 | [@alexedev](https://github.com/alexedev)/[**meteor-admin**](https://github.com/alexedev/meteor-admin) | Admin panel for meteor based on yogiben:admin |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 59 | [@yakushstanislav](https://github.com/yakushstanislav)/[**EagleMQ**](https://github.com/yakushstanislav/EagleMQ) | EagleMQ is an open source, high-performance and lightweight queue manager | [:arrow_upper_right:](http://www.eaglemq.com)
@@ -170,26 +180,34 @@
 2 | [@vi](https://github.com/vi)/[**socksredirect**](https://github.com/vi/socksredirect) | "iptables ... -p tcp -j REDIRECT" to this program and it will connect to SOCKS5 server |
 2 | [@vi](https://github.com/vi)/[**imlib2-bpg**](https://github.com/vi/imlib2-bpg) | imlib2 plugin for loading BPG images |
 2 | [@vi](https://github.com/vi)/[**syscall_limiter**](https://github.com/vi/syscall_limiter) | Start Linux programs with only selected syscalls enabled (libseccomp-based) |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 50 | [@abudnik](https://github.com/abudnik)/[**tcalc**](https://github.com/abudnik/tcalc) | C++ compile-time Prolog interpreter |
 13 | [@yankeppey](https://github.com/yankeppey)/[**PanoramaSample**](https://github.com/yankeppey/PanoramaSample) | Android panorama photo in one project |
 7 | [@icekobrin](https://github.com/icekobrin)/[**fourdeltaone**](https://github.com/icekobrin/fourdeltaone) | Source code client 4d1 |
 4 | [@icekobrin](https://github.com/icekobrin)/[**alterIWnet-client-**](https://github.com/icekobrin/alterIWnet-client-) | Source code alterIWnet |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@vaukalak](https://github.com/vaukalak)/[**stork**](https://github.com/vaukalak/stork) | as3 tween engine |
 2 | [@vaukalak](https://github.com/vaukalak)/[**vaukalak**](https://github.com/vaukalak/vaukalak) | simple mvc based framework |
 2 | [@SlavaRa](https://github.com/SlavaRa)/[**_0**](https://github.com/SlavaRa/_0) |  |
 2 | [@SlavaRa](https://github.com/SlavaRa)/[**blooddy**](https://github.com/SlavaRa/blooddy) | Automatically exported from code.google.com/p/blooddy |
+
 ### Clojure #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@valichek](https://github.com/valichek)/[**component-compojure**](https://github.com/valichek/component-compojure) | Use Compojure routes as Stuart Sierra's Component |
 2 | [@ysmolsky](https://github.com/ysmolsky)/[**clojure-df**](https://github.com/ysmolsky/clojure-df) | Clone of Dwarf Fortress on Clojure  |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 427 | [@limejelly](https://github.com/limejelly)/[**Backlight-for-XCode**](https://github.com/limejelly/Backlight-for-XCode) | Highlights the current editing line in Xcode |
@@ -204,13 +222,17 @@
 3 | [@limejelly](https://github.com/limejelly)/[**Screentool**](https://github.com/limejelly/Screentool) | Tool for capturing screenshots in OS X |
 3 | [@eXiga](https://github.com/eXiga)/[**ConfreaksMTV**](https://github.com/eXiga/ConfreaksMTV) | iOS client-application for awesome ConfreaksTV web-site |
 3 | [@nikolaeu](https://github.com/nikolaeu)/[**SRNotification**](https://github.com/nikolaeu/SRNotification) | Simple remote notification for AppKit |
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 26 | [@worldmind](https://github.com/worldmind)/[**perlqual**](https://github.com/worldmind/perlqual) | Wrapper for some tests for Perl  code quality |
 3 | [@basiliscos](https://github.com/basiliscos)/[**perl-watcher**](https://github.com/basiliscos/perl-watcher) | Nagios-inspired system tray events desktop watcher / notifier |
 2 | [@grishkovelli](https://github.com/grishkovelli)/[**Mojolicious-Plugin-A…**](https://github.com/grishkovelli/Mojolicious-Plugin-AdvancedMod) | Additional features |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 827 | [@barbushin](https://github.com/barbushin)/[**php-console**](https://github.com/barbushin/php-console) | Handle PHP errors, dump variables, execute PHP code remotely in Google Chrome | [:arrow_upper_right:](https://chrome.google.com/webstore/detail/php-console/nfhmhhlpfleoednkpnnnkolmclajemef)
@@ -250,7 +272,9 @@
 2 | [@Ozerich](https://github.com/Ozerich)/[**parsers**](https://github.com/Ozerich/parsers) | Parsers for various web-sites | [:arrow_upper_right:](http://www.avito.ru)
 2 | [@barbushin](https://github.com/barbushin)/[**iploc**](https://github.com/barbushin/iploc) | PHP library to detect location by IP based on GeoLite database |
 2 | [@Gemorroj](https://github.com/Gemorroj)/[**CSSValidator**](https://github.com/Gemorroj/CSSValidator) | port PEAR package Services_W3C_CSSValidator |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 190 | [@Tiendil](https://github.com/Tiendil)/[**the-tale**](https://github.com/Tiendil/the-tale) | Сказка - Zero Player Game и песочница | [:arrow_upper_right:](http://the-tale.org)
@@ -299,7 +323,9 @@
 2 | [@denis-ryzhkov](https://github.com/denis-ryzhkov)/[**adict**](https://github.com/denis-ryzhkov/adict) | Dict with attr access to keys. |
 2 | [@denis-ryzhkov](https://github.com/denis-ryzhkov)/[**apiphant**](https://github.com/denis-ryzhkov/apiphant) | Simple Python Web API framework, based on Gevent, JSON, CRUD. |
 2 | [@alex-oleshkevich](https://github.com/alex-oleshkevich)/[**skeleton-plasmoid**](https://github.com/alex-oleshkevich/skeleton-plasmoid) | The skeleton application for KDE Plasma widget (Popup Applet) |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 786 | [@goshakkk](https://github.com/goshakkk)/[**nsa_panel**](https://github.com/goshakkk/nsa_panel) | Easily add an NSA backdoor into your Rails app. |
@@ -395,7 +421,9 @@
 2 | [@avsej](https://github.com/avsej)/[**yard-xml**](https://github.com/avsej/yard-xml) | XML plugin for YARD tool | [:arrow_upper_right:](https://rubygems.org/gems/yard-xml)
 2 | [@nashby](https://github.com/nashby)/[**stackoverflair**](https://github.com/nashby/stackoverflair) | Put your stackoverflow flair on blog or wherever you want. | [:arrow_upper_right:](https://github.com/nashby/stackoverflair)
 2 | [@ka8725](https://github.com/ka8725)/[**tutor_crm**](https://github.com/ka8725/tutor_crm) |  |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 38 | [@remeniuk](https://github.com/remeniuk)/[**sbt-netbeans-plugin**](https://github.com/remeniuk/sbt-netbeans-plugin) | The plugin allows to work with SBT projects in Netbeans |
@@ -409,11 +437,14 @@
 3 | [@whiter4bbit](https://github.com/whiter4bbit)/[**kiwi**](https://github.com/whiter4bbit/kiwi) | Simple message queue inspired by kafka |
 2 | [@remeniuk](https://github.com/remeniuk)/[**typesafe-poker**](https://github.com/remeniuk/typesafe-poker) | Source code for the presentation made at Software Craftsmanship BY meetup |
 2 | [@remeniuk](https://github.com/remeniuk)/[**remeniuk.github.com**](https://github.com/remeniuk/remeniuk.github.com) | remeniuk.github.com |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@aliaksandrb](https://github.com/aliaksandrb)/[**ubuntu_ruby_dev**](https://github.com/aliaksandrb/ubuntu_ruby_dev) | Simple bash script for setup Ruby development environment on machine running Ubuntu |
 2 | [@VitaminPSG](https://github.com/VitaminPSG)/[**OpenStreetMap**](https://github.com/VitaminPSG/OpenStreetMap) | OpenStreetMap xml -> MySQL |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
