@@ -271,7 +271,6 @@
 2 | [@githubjeka](https://github.com/githubjeka)/[**value-object**](https://github.com/githubjeka/value-object) | Help to create immutable Value Objects |
 2 | [@Ozerich](https://github.com/Ozerich)/[**just-find**](https://github.com/Ozerich/just-find) | just-find.ru for bsuir game | [:arrow_upper_right:](http://www.just-find.ru)
 2 | [@Gemorroj](https://github.com/Gemorroj)/[**forum**](https://github.com/Gemorroj/forum) | wapinet forum |
-2 | [@Ozerich](https://github.com/Ozerich)/[**parsers**](https://github.com/Ozerich/parsers) | Parsers for various web-sites | [:arrow_upper_right:](http://www.avito.ru)
 2 | [@barbushin](https://github.com/barbushin)/[**iploc**](https://github.com/barbushin/iploc) | PHP library to detect location by IP based on GeoLite database |
 2 | [@Gemorroj](https://github.com/Gemorroj)/[**CSSValidator**](https://github.com/Gemorroj/CSSValidator) | port PEAR package Services_W3C_CSSValidator |
 
